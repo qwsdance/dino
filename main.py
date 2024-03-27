@@ -84,3 +84,10 @@ while run:
                     screen.blit(cactus_image,(cactus[0],cactus[1]))
 
                 pygame.display.flip()
+
+
+
+
+
+
+
